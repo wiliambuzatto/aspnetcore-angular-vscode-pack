@@ -2,7 +2,7 @@
     "name": "aspnetcore-angular",
     "displayName": "AspNetCore + Angular",
     "description": "This Extesion Pack colect a bunch of usefull extensions for AspNet Core and Angular",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "buzatto",
     "icon": "aspnetcore-angular-icon.png",
     "galleryBanner": {
