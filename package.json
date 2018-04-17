@@ -1,0 +1,44 @@
+{
+    "name": "aspnetcore-angular",
+    "displayName": "AspNetCore + Angular",
+    "description": "This Extesion Pack colect a bunch of usefull extensions for AspNet Core and Angular",
+    "version": "0.0.2",
+    "publisher": "buzatto",
+    "icon": "aspnetcore-angular-icon.png",
+    "galleryBanner": {
+        "color": "#0273D4",
+        "theme": "dark"
+    },
+    "repository": "https://github.com/wiliambuzatto/aspnetcore-angular-vscode-pack",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "AspNetCore",
+        "Asp.Net Core",
+        "Angular",
+        ".Net Core",
+        "TypeScript"
+    ],
+    "extensionDependencies": [
+        "abusaidm.html-snippets",
+        "alexiv.vscode-angular2-files",
+        "Angular.ng-template",
+        "christian-kohler.path-intellisense",
+        "CoenraadS.bracket-pair-colorizer",
+        "eg2.tslint",
+        "jchannon.csharpextensions",
+        "jmrog.vscode-nuget-package-manager",
+        "johnpapa.Angular2",
+        "ms-vscode.csharp",
+        "ms-vsts.team",
+        "msjsdiag.debugger-for-chrome",
+        "PKief.material-icon-theme",
+        "rbbit.typescript-hero",
+        "robertohuertasm.vscode-icons",
+        "Zignd.html-css-class-completion"
+    ]
+}
